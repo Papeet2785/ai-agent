@@ -39,7 +39,7 @@ Structured ResearchResponse
   │
   ▼
 Terminal
-
+```
 
 ## Getting an OpenRouter API Key
 
