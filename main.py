@@ -32,7 +32,7 @@ agent = create_agent(
     response_format=ResearchResponse,
 )
 
-query = str(input("What can I help you research?"))
+query = str(input("What can I help you research? "))
 result = agent.invoke({
     "messages": [
         {

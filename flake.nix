@@ -20,6 +20,10 @@
           python3Packages.pydantic
           python3Packages.langchain
           python3Packages.langchain-openai
+          python3Packages.langchain-community
+          python3Packages.ddgs
+          python3Packages.datetime
+          python3Packages.wikipedia
         ];
       };
     };
